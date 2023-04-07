@@ -1,0 +1,20 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://example.com/tags/coffee.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/posts.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/tags.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/tags.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/tags/travel.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/tags/vietnam.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/travelinvietnam.html</loc><lastmod>2023-03-31T00:23:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/albums/vietnam.html</loc><lastmod>2023-03-30T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/travelguidevietnam.html</loc><lastmod>2023-03-30T00:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/about.html</loc><lastmod>2023-03-29T01:40:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/albums.html</loc><lastmod>2023-03-29T01:40:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://example.com/categories.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/tags/coffee.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/tags/travel.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/tags/vietnam.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

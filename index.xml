@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>风的形状</title>
+        <link>https://example.com/</link>
+        <description>让一切没定案</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 31 Mar 2023 00:23:26 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>越南行记</title>
+    <link>https://example.com/travelinvietnam.html</link>
+    <pubDate>Fri, 31 Mar 2023 00:23:26 &#43;0800</pubDate>
+    <author>Leith</author>
+    <guid>https://example.com/travelinvietnam.html</guid>
+    <description><![CDATA[越南行程体验的详细文字记录]]></description>
+</item>
+<item>
+    <title>在你出发越南之前</title>
+    <link>https://example.com/travelguidevietnam.html</link>
+    <pubDate>Thu, 30 Mar 2023 00:00:00 &#43;0800</pubDate>
+    <author>Leith</author>
+    <guid>https://example.com/travelguidevietnam.html</guid>
+    <description><![CDATA[算是一些硬货]]></description>
+</item>
+</channel>
+</rss>
